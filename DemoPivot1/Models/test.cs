@@ -7,5 +7,6 @@ namespace DemoPivot1.Models
 {
     public class test
     {
+        public void demo() { }
     }
 }
